@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "package_name": "com.insurance.tes",
+      "package_name": "com.musica.test",
       "active_ads": "ad",
       "ad_inter": "ca-app-pub-3940256099942544/1033173712",
       "ad_banner": "ca-app-pub-3940256099942544/6300978111",
