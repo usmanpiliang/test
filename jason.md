@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "package_name": "com.musica.test",
+      "package_name": "com.musica.tes",
       "active_ads": "fb",
       "app_status": "y",
       "link_move": "https://play.google.com/store/apps/details?id=olkamusic.bebe.rexha",
